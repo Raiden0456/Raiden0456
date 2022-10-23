@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Raiden0456
-- 👀 I’m interested in Game dev, back end(also web) and Object oriented programming.
+- 👋 Hi, I’m Vrezh
+- 👀 I’m interested in Game dev, back end and Object oriented programming.
 - 🌱 I’m currently learning Web development, Node.js + express, PhP, JavaScript, React, Python (pandas).
 - 💞️ I’m looking to collaborate on any type of game dev, web development, smartphone/laptop application projects.
 - 📫 How to reach me: My email: vrezhraiden@gmail.com, my telegram: @raiden0456
