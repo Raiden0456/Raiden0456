@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vrezh</h1>
 <h3 align="center">A passionate fullstack developer from Armenia/Russia</h3>
 
-- 🔭 I’m currently working on **Face2Une CRM**
+- 🔭 I’m currently working on [**Face2Une**](https://www.face2une.com/) **CRM**
 
 - 🌱 I’m currently learning **React,Node.js + Express**
 
