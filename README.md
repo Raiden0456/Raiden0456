@@ -9,6 +9,8 @@
 
 - 📫 How to reach me: **vrezhraiden@gmail.com**
 
+- 🌎 Visit my [Resume page!](https://react-resume-raiden0456.vercel.app/) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/raiden0456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raiden0456" height="30" width="40" /></a>
