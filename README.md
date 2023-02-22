@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any type of game dev, web development, smartphone/laptop application projects.**
 
-- 📫 How to reach me: **vrezhraiden@gmail.com**
+- 📫 How to reach me: **workraiden@gmail.com**
 
 - 🌎 Visit my [Resume page!](https://react-resume-raiden0456.vercel.app/) 
 
