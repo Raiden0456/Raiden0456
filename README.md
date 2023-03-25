@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node.js + Express**
 
-- 👯 I’m looking to collaborate on **any type of game dev, web development, smartphone/laptop application projects.**
+- 👯 I’m looking to collaborate on **any type of game dev, web development, smartphone/desctop application projects.**
 
 - 📫 How to reach me: **workraiden@gmail.com**
 
