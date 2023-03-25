@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**Face2Une**](https://www.face2une.com/) **CRM**
 
-- 🌱 I’m currently learning **React,Node.js + Express**
+- 🌱 I’m currently learning **React, Node.js + Express**
 
 - 👯 I’m looking to collaborate on **any type of game dev, web development, smartphone/laptop application projects.**
 
