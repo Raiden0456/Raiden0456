@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**FaceStellar**](https://facestellar.com/) **CRM**
 
-- 🌱 I’m currently learning **React, Node.js + Express**
+- 🌱 I’m currently learning **MERN + GraphQL**
 
 - 👯 I’m looking to collaborate on **any type of game dev, web development, smartphone/desctop application projects.**
 
