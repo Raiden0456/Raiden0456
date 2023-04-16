@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **workraiden@gmail.com**
 
-- 🌎 Visit my [**Resume/Portfolio page!**](https://react-resume-raiden0456.vercel.app/) 
+- 🌎 Visit my [**Resume/Portfolio page!**](https://raiden0456-resume.vercel.app/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
