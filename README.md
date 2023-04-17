@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vrezh</h1>
+<h1 align="center">Hola 🖖, I'm Vrezh</h1>
 <h3 align="center">A passionate Full Stack developer from Armenia/Russia</h3>
 
-- 🔭 I’m currently working on [**FaceStellar**](https://facestellar.com/) **CRM**
+- 👨‍💻 I’m currently working on [**FaceStellar**](https://facestellar.com/) **CRM**
 
-- 🌱 I’m currently learning **MERN + GraphQL**
+- 📖 I’m currently learning **MERN + GraphQL**
 
-- 👯 I’m looking to collaborate on **any type of game dev, web development, smartphone/desctop application projects.**
+- 👯 I’m looking to collaborate on **any type of game dev, web development, smartphone/desktop application projects.**
 
 - 📫 How to reach me: **workraiden@gmail.com**
 
