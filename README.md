@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on **WEB3 Marketing platform**
 
-- 📖 I’m currently learning **MERN + GraphQL**
+- 📖 I’m currently learning **Nest.js**
 
 - 👯 I’m looking to collaborate on **any type of game dev, web development, smartphone/desktop application projects.**
 
