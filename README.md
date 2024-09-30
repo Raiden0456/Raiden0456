@@ -1,7 +1,7 @@
 <h1 align="center">Hola 🖖, I'm Vrezh</h1>
 <h3 align="center">A passionate Full Stack developer from Armenia/Russia</h3>
 
-- 👨‍💻 I’m currently working on **WEB3 Marketing platform**
+- 👨‍💻 I’m currently working on **TON MiniApp**
 
 - 📖 I’m currently learning **Nest.js**
 
