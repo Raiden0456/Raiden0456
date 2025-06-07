@@ -1,9 +1,9 @@
 <h1 align="center">Hola 🖖, I'm Vrezh</h1>
-<h3 align="center">A passionate Full Stack developer from Armenia/Russia</h3>
+<h3 align="center">Full Stack developer from Armenia/Russia</h3>
 
-- 👨‍💻 I’m currently working on **TON MiniApp**
+- 👨‍💻 I’m currently working on **A bunch of stuff actually**
 
-- 📖 I’m currently learning **Nest.js**
+- 📖 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **any type of game dev, web development, smartphone/desktop application projects.**
 
