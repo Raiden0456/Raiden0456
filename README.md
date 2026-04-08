@@ -9,12 +9,16 @@
 
 - 📫 How to reach me: **workraiden@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/raiden0456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raiden0456" height="30" width="40" /></a>
-<a href="https://discord.gg/6808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6808" height="30" width="40" /></a>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,redis,docker,kafka,linux,git&theme=dark" />
 </p>
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=one_dark&width=670&line1=nestjs%2CNestJs%2Cff499c%3Btypescript%2CTypescript%2C2a74d1%3Bpostgresql%2CPostgre.sql%2C5197ff%3Bclickhouse%2CClickhouse%2Cffdb00%3Bredis%2CRedis%2Cff2323%3B&line2=next.js%2CNext.js%2Cffffff%3Btailwindcss%2CTailwind+CSS%2C35e9ff%3Bsass%2CSass%2Cfa98ff%3Bzustand%2Czustand%2Cffffff%3B&line3=linux%2CLinux%2Cffffff%3Bgit%2CGit%2Cff4a2b%3Bdocker%2CDocker%2C32c2ff%3B)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-Core-61AFEF?style=for-the-badge&labelColor=282C34" />
+  <img src="https://img.shields.io/badge/NestJS-Backend-E06C75?style=for-the-badge&labelColor=282C34" />
+  <img src="https://img.shields.io/badge/Next.js-Frontend-ABB2BF?style=for-the-badge&labelColor=282C34" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Data-56B6C2?style=for-the-badge&labelColor=282C34" />
+  <img src="https://img.shields.io/badge/Docker-DevOps-61AFEF?style=for-the-badge&labelColor=282C34" />
+</p>
 [![wakatime](https://wakatime.com/badge/user/018e7c78-0151-4a6f-9d10-837ddf2a2217.svg)](https://wakatime.com/@018e7c78-0151-4a6f-9d10-837ddf2a2217)
