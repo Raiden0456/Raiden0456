@@ -10,11 +10,11 @@
 - 📫 How to reach me: **workraiden@gmail.com**
 
 
-<p align="center">
+<p align="start">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,redis,docker,kafka,linux,git&theme=dark" />
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/TypeScript-Core-61AFEF?style=for-the-badge&labelColor=282C34" />
   <img src="https://img.shields.io/badge/NestJS-Backend-E06C75?style=for-the-badge&labelColor=282C34" />
   <img src="https://img.shields.io/badge/Next.js-Frontend-ABB2BF?style=for-the-badge&labelColor=282C34" />
