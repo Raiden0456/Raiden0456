@@ -1,14 +1,15 @@
 <h1 align="center">Hola 🖖, I'm Vrezh</h1>
-<h3 align="center">Full Stack developer from Armenia/Russia</h3>
+<h3 align="center">Full Stack Developer focused on scalable systems & real-world products</h3>
 
-- 👨‍💻 I’m currently working on **A bunch of stuff actually**
+<br/>
 
-- 📖 I’m currently learning **Go**
+- 👨‍💻 Currently building **production-grade web apps and backend systems**
+- 📖 Learning **Go**
+- ⚡ Strong focus on **performance, architecture, and clean code**
+- 🎯 I care about **systems that survive real users, not just demos**
+- 📫 Reach me: **workraiden@gmail.com**
 
-- 👯 I’m looking to collaborate on **any type of game dev, web development, smartphone/desktop application projects.**
-
-- 📫 How to reach me: **workraiden@gmail.com**
-
+<br/>
 
 <p align="start">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,redis,docker,kafka,linux,git&theme=dark" />
@@ -21,5 +22,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-Data-56B6C2?style=for-the-badge&labelColor=282C34" />
   <img src="https://img.shields.io/badge/Docker-DevOps-61AFEF?style=for-the-badge&labelColor=282C34" />
 </p>
+
+<br/>
 
 [![wakatime](https://wakatime.com/badge/user/018e7c78-0151-4a6f-9d10-837ddf2a2217.svg)](https://wakatime.com/@018e7c78-0151-4a6f-9d10-837ddf2a2217)
