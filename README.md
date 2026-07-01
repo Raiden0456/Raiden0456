@@ -6,7 +6,7 @@
 - 👨‍💻 Currently building **production-grade web apps and backend systems**
 - 📖 Learning **Go**
 - ⚡ Strong focus on **performance, architecture, and clean code**
-- 🎯 I care about **systems that survive real users, not just demos**
+- 🎯 I care about **systems that do not fold after MVP**
 - 📫 Reach me: **workraiden@gmail.com**
 
 <br/>
